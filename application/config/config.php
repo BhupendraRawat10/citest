@@ -43,14 +43,6 @@ $config['base_url'] = $root;
 */
 $config['index_page'] = '';
 
-/*
-|--------------------------------------------------------------------------
-| Stripe API keys 
-|--------------------------------------------------------------------------
-|
-| Typically these will be your API keys of Stripe. Set your Stripe key and Stripe Secret key from your developer account
-|
-*/
 
 
 
